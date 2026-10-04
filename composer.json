@@ -1,0 +1,11 @@
+{
+    "name": "robtob/mark",
+    "autoload": {
+        "psr-4": {
+            "Robtob\\Mark\\": "src/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.7"
+    }
+}
